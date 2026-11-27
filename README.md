@@ -1,8 +1,7 @@
 # Taller Estructuras de Datos
 
-**Estudiante:** TU NOMBRE  
-**Curso / Profesor:** TU CURSO / TU PROFESOR  
-**Fecha:** 27/11/2026
+**Estudiante:** Manuel Alejandro Lopez Sanchez  
+**Profesor:** jhon alexander vargas
 
 Este repositorio contiene la solución del taller: heapsort, árbol binario de búsqueda (ABB), árbol AVL, inserción en un árbol rojinegro y dos problemas de HackerRank.
 
